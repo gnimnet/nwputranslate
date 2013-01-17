@@ -1,0 +1,1 @@
+translater.exe filein.txt fileout.txt
